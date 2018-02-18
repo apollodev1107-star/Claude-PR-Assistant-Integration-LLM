@@ -9,3 +9,6 @@
 
 ## 2018-02-07
 - Fix linting issues
+
+## 2018-02-18
+- Update dependencies
