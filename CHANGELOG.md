@@ -15,3 +15,6 @@
 
 ## 2018-05-23
 - Update dependencies
+
+## 2018-05-23
+- Update .gitignore
