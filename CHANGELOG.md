@@ -18,3 +18,6 @@
 
 ## 2018-05-23
 - Update .gitignore
+
+## 2018-06-08
+- Fix typo in README
