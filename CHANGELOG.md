@@ -21,3 +21,6 @@
 
 ## 2018-06-08
 - Fix typo in README
+
+## 2018-06-28
+- Improve test coverage
