@@ -24,3 +24,6 @@
 
 ## 2018-06-28
 - Improve test coverage
+
+## 2018-07-13
+- Fix linting issues
