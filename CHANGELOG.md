@@ -27,3 +27,6 @@
 
 ## 2018-07-13
 - Fix linting issues
+
+## 2018-07-19
+- Fix compatibility issues
