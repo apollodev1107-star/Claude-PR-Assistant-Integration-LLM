@@ -30,3 +30,6 @@
 
 ## 2018-07-19
 - Fix compatibility issues
+
+## 2018-07-25
+- Refactor for better maintainability
