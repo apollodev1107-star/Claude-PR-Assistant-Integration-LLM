@@ -33,3 +33,6 @@
 
 ## 2018-07-25
 - Refactor for better maintainability
+
+## 2018-08-02
+- Fix race condition
