@@ -36,3 +36,6 @@
 
 ## 2018-08-02
 - Fix race condition
+
+## 2018-08-24
+- Update dependencies to latest versions
