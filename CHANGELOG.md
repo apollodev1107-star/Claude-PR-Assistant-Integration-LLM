@@ -42,3 +42,6 @@
 
 ## 2018-08-24
 - Update dependencies
+
+## 2018-08-30
+- Add caching mechanism
