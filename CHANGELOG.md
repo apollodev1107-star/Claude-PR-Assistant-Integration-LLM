@@ -45,3 +45,6 @@
 
 ## 2018-08-30
 - Add caching mechanism
+
+## 2018-09-13
+- Fix edge case bug
