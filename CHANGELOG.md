@@ -48,3 +48,6 @@
 
 ## 2018-09-13
 - Fix edge case bug
+
+## 2018-10-02
+- Fix bug in core module
