@@ -51,3 +51,6 @@
 
 ## 2018-10-02
 - Fix bug in core module
+
+## 2018-11-02
+- Improve code comments
