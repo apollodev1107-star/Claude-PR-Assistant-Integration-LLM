@@ -54,3 +54,6 @@
 
 ## 2018-11-02
 - Improve code comments
+
+## 2018-11-05
+- Fix linting issues
