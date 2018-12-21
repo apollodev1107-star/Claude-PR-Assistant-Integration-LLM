@@ -57,3 +57,6 @@
 
 ## 2018-11-05
 - Fix linting issues
+
+## 2018-12-21
+- Fix race condition
