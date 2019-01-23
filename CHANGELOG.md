@@ -60,3 +60,6 @@
 
 ## 2018-12-21
 - Fix race condition
+
+## 2019-01-23
+- Update dependencies
