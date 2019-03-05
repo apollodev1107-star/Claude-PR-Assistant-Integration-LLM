@@ -63,3 +63,6 @@
 
 ## 2019-01-23
 - Update dependencies
+
+## 2019-03-05
+- Add new feature
