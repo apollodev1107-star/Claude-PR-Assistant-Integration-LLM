@@ -66,3 +66,6 @@
 
 ## 2019-03-05
 - Add new feature
+
+## 2019-03-19
+- Refactor code structure
