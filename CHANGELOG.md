@@ -72,3 +72,6 @@
 
 ## 2019-04-26
 - Add new feature
+
+## 2019-04-27
+- Update dependencies
