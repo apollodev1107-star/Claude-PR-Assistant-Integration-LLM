@@ -75,3 +75,6 @@
 
 ## 2019-04-27
 - Update dependencies
+
+## 2019-04-30
+- Fix typo in README
