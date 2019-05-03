@@ -78,3 +78,6 @@
 
 ## 2019-04-30
 - Fix typo in README
+
+## 2019-05-03
+- Update license file
