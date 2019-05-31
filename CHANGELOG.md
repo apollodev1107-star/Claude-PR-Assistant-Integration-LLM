@@ -84,3 +84,6 @@
 
 ## 2019-05-25
 - Add example code
+
+## 2019-05-31
+- Add CI/CD configuration
