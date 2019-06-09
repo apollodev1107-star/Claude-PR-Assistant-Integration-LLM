@@ -87,3 +87,6 @@
 
 ## 2019-05-31
 - Add CI/CD configuration
+
+## 2019-06-09
+- Add configuration files
