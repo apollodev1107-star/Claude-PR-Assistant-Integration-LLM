@@ -90,3 +90,6 @@
 
 ## 2019-06-09
 - Add configuration files
+
+## 2019-07-12
+- Update documentation
