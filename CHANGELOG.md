@@ -93,3 +93,6 @@
 
 ## 2019-07-12
 - Update documentation
+
+## 2019-07-16
+- Fix race condition
