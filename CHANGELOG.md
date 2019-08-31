@@ -99,3 +99,6 @@
 
 ## 2019-07-31
 - Add new functionality
+
+## 2019-08-31
+- Fix race condition
