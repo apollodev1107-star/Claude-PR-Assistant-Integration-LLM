@@ -108,3 +108,6 @@
 
 ## 2019-09-20
 - Add new API endpoint
+
+## 2019-09-26
+- Update documentation
