@@ -111,3 +111,6 @@
 
 ## 2019-09-26
 - Update documentation
+
+## 2019-10-29
+- Optimize performance
