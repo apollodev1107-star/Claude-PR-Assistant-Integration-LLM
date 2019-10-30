@@ -114,3 +114,6 @@
 
 ## 2019-10-29
 - Optimize performance
+
+## 2019-10-30
+- Add unit tests
