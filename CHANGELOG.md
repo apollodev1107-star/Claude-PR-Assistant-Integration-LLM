@@ -117,3 +117,6 @@
 
 ## 2019-10-30
 - Add unit tests
+
+## 2019-10-31
+- Improve test coverage
