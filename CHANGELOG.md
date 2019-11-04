@@ -120,3 +120,6 @@
 
 ## 2019-10-31
 - Improve test coverage
+
+## 2019-11-04
+- Add new functionality
