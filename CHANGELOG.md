@@ -123,3 +123,6 @@
 
 ## 2019-11-04
 - Add new functionality
+
+## 2019-11-15
+- Update project metadata
