@@ -126,3 +126,6 @@
 
 ## 2019-11-15
 - Update project metadata
+
+## 2019-12-17
+- Fix typo in README
