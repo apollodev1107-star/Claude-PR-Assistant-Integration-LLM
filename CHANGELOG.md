@@ -129,3 +129,6 @@
 
 ## 2019-12-17
 - Fix typo in README
+
+## 2019-12-25
+- Update README with new features
