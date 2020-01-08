@@ -132,3 +132,6 @@
 
 ## 2019-12-25
 - Update README with new features
+
+## 2020-01-08
+- Improve code comments
