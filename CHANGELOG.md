@@ -135,3 +135,6 @@
 
 ## 2020-01-08
 - Improve code comments
+
+## 2020-01-10
+- Refactor code structure
