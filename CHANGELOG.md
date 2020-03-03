@@ -138,3 +138,6 @@
 
 ## 2020-01-10
 - Refactor code structure
+
+## 2020-03-03
+- Update documentation
