@@ -141,3 +141,6 @@
 
 ## 2020-03-03
 - Update documentation
+
+## 2020-04-07
+- Add new API endpoint
