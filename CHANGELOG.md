@@ -144,3 +144,6 @@
 
 ## 2020-04-07
 - Add new API endpoint
+
+## 2020-05-04
+- Fix memory leak
