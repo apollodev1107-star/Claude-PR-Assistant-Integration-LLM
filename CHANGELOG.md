@@ -147,3 +147,6 @@
 
 ## 2020-05-04
 - Fix memory leak
+
+## 2020-06-04
+- Update license file
