@@ -150,3 +150,6 @@
 
 ## 2020-06-04
 - Update license file
+
+## 2020-06-12
+- Optimize database queries
