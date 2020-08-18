@@ -153,3 +153,6 @@
 
 ## 2020-06-12
 - Optimize database queries
+
+## 2020-08-18
+- Update .gitignore
