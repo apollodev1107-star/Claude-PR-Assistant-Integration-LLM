@@ -156,3 +156,6 @@
 
 ## 2020-08-18
 - Update .gitignore
+
+## 2020-10-17
+- Initial project setup
