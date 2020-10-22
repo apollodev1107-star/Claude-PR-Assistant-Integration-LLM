@@ -159,3 +159,6 @@
 
 ## 2020-10-17
 - Initial project setup
+
+## 2020-10-22
+- Add configuration files
