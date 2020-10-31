@@ -162,3 +162,6 @@
 
 ## 2020-10-22
 - Add configuration files
+
+## 2020-10-31
+- Fix compatibility issues
