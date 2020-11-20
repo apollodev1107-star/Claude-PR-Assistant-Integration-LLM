@@ -168,3 +168,6 @@
 
 ## 2020-11-02
 - Add example code
+
+## 2020-11-20
+- Fix linting issues
