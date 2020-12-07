@@ -171,3 +171,6 @@
 
 ## 2020-11-20
 - Fix linting issues
+
+## 2020-12-07
+- Add logging functionality
