@@ -174,3 +174,6 @@
 
 ## 2020-12-07
 - Add logging functionality
+
+## 2021-01-06
+- Add unit tests
