@@ -177,3 +177,6 @@
 
 ## 2021-01-06
 - Add unit tests
+
+## 2021-02-15
+- Fix edge case bug
