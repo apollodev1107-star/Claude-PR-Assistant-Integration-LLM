@@ -180,3 +180,6 @@
 
 ## 2021-02-15
 - Fix edge case bug
+
+## 2021-02-20
+- Improve error handling
