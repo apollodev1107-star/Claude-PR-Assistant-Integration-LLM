@@ -183,3 +183,6 @@
 
 ## 2021-02-20
 - Improve error handling
+
+## 2021-03-06
+- Update dependencies to latest versions
