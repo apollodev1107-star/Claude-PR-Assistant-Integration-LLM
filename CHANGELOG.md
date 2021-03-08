@@ -186,3 +186,6 @@
 
 ## 2021-03-06
 - Update dependencies to latest versions
+
+## 2021-03-08
+- Update documentation
