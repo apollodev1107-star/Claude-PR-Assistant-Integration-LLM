@@ -189,3 +189,6 @@
 
 ## 2021-03-08
 - Update documentation
+
+## 2021-03-23
+- Fix bug in core module
