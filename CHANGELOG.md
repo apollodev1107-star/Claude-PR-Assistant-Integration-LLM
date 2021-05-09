@@ -192,3 +192,6 @@
 
 ## 2021-03-23
 - Fix bug in core module
+
+## 2021-05-09
+- Add unit tests
