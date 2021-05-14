@@ -195,3 +195,6 @@
 
 ## 2021-05-09
 - Add unit tests
+
+## 2021-05-14
+- Add integration tests
