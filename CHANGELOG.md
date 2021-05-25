@@ -198,3 +198,6 @@
 
 ## 2021-05-14
 - Add integration tests
+
+## 2021-05-25
+- Improve user experience
