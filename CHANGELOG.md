@@ -201,3 +201,6 @@
 
 ## 2021-05-25
 - Improve user experience
+
+## 2021-05-25
+- Optimize performance
