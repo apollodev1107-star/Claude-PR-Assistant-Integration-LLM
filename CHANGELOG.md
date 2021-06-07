@@ -204,3 +204,6 @@
 
 ## 2021-05-25
 - Optimize performance
+
+## 2021-06-07
+- Fix race condition
