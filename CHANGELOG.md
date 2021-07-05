@@ -207,3 +207,6 @@
 
 ## 2021-06-07
 - Fix race condition
+
+## 2021-07-05
+- Refactor code structure
