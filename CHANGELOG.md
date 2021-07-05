@@ -210,3 +210,6 @@
 
 ## 2021-07-05
 - Refactor code structure
+
+## 2021-07-05
+- Fix edge case bug
