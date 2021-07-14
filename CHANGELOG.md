@@ -213,3 +213,6 @@
 
 ## 2021-07-05
 - Fix edge case bug
+
+## 2021-07-14
+- Update dependencies
