@@ -216,3 +216,6 @@
 
 ## 2021-07-14
 - Update dependencies
+
+## 2021-07-20
+- Update project metadata
