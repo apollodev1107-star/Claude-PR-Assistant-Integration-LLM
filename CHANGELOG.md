@@ -219,3 +219,6 @@
 
 ## 2021-07-20
 - Update project metadata
+
+## 2021-07-27
+- Add caching mechanism
