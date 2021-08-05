@@ -222,3 +222,6 @@
 
 ## 2021-07-27
 - Add caching mechanism
+
+## 2021-08-05
+- Update requirements.txt
