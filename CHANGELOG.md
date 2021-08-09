@@ -225,3 +225,6 @@
 
 ## 2021-08-05
 - Update requirements.txt
+
+## 2021-08-09
+- Fix security vulnerability
