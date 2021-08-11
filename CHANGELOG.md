@@ -228,3 +228,6 @@
 
 ## 2021-08-09
 - Fix security vulnerability
+
+## 2021-08-11
+- Add caching mechanism
