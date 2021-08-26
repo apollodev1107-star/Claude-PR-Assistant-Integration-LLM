@@ -231,3 +231,6 @@
 
 ## 2021-08-11
 - Add caching mechanism
+
+## 2021-08-26
+- Improve code quality
