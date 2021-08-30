@@ -234,3 +234,6 @@
 
 ## 2021-08-26
 - Improve code quality
+
+## 2021-08-30
+- Update project structure
