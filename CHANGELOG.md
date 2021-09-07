@@ -237,3 +237,6 @@
 
 ## 2021-08-30
 - Update project structure
+
+## 2021-09-07
+- Update .gitignore
