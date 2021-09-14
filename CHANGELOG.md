@@ -240,3 +240,6 @@
 
 ## 2021-09-07
 - Update .gitignore
+
+## 2021-09-14
+- Improve error handling
