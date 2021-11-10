@@ -252,3 +252,6 @@
 
 ## 2021-11-03
 - Update dependencies
+
+## 2021-11-10
+- Fix typo in README
