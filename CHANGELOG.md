@@ -255,3 +255,6 @@
 
 ## 2021-11-10
 - Fix typo in README
+
+## 2021-12-08
+- Add logging functionality
