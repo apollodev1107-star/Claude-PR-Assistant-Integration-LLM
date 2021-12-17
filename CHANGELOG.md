@@ -258,3 +258,6 @@
 
 ## 2021-12-08
 - Add logging functionality
+
+## 2021-12-17
+- Add CI/CD configuration
