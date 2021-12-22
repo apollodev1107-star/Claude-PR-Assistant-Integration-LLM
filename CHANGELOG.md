@@ -261,3 +261,6 @@
 
 ## 2021-12-17
 - Add CI/CD configuration
+
+## 2021-12-22
+- Add CI/CD configuration
