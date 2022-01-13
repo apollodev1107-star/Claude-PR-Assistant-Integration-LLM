@@ -264,3 +264,6 @@
 
 ## 2021-12-22
 - Add CI/CD configuration
+
+## 2022-01-13
+- Update license file
