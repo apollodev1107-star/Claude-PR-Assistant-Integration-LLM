@@ -267,3 +267,6 @@
 
 ## 2022-01-13
 - Update license file
+
+## 2022-01-21
+- Add logging functionality
