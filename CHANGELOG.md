@@ -270,3 +270,6 @@
 
 ## 2022-01-21
 - Add logging functionality
+
+## 2022-01-28
+- Optimize performance
