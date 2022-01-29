@@ -273,3 +273,6 @@
 
 ## 2022-01-28
 - Optimize performance
+
+## 2022-01-29
+- Refactor code structure
