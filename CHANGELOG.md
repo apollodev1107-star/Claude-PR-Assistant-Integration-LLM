@@ -276,3 +276,6 @@
 
 ## 2022-01-29
 - Refactor code structure
+
+## 2022-02-10
+- Update dependencies
