@@ -279,3 +279,6 @@
 
 ## 2022-02-10
 - Update dependencies
+
+## 2022-02-22
+- Add configuration files
