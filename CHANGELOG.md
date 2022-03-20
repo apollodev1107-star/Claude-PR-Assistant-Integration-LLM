@@ -282,3 +282,6 @@
 
 ## 2022-02-22
 - Add configuration files
+
+## 2022-03-20
+- Update dependencies to latest versions
