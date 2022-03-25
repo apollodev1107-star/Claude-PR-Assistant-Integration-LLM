@@ -285,3 +285,6 @@
 
 ## 2022-03-20
 - Update dependencies to latest versions
+
+## 2022-03-25
+- Update .gitignore
