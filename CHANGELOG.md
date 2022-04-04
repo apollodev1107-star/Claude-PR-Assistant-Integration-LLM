@@ -291,3 +291,6 @@
 
 ## 2022-03-27
 - Update dependencies
+
+## 2022-04-04
+- Add unit tests
