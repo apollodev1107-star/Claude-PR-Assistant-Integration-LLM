@@ -294,3 +294,6 @@
 
 ## 2022-04-04
 - Add unit tests
+
+## 2022-04-13
+- Add logging functionality
