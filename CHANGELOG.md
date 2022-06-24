@@ -297,3 +297,6 @@
 
 ## 2022-04-13
 - Add logging functionality
+
+## 2022-06-24
+- Add integration tests
