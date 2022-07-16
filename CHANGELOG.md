@@ -300,3 +300,6 @@
 
 ## 2022-06-24
 - Add integration tests
+
+## 2022-07-16
+- Add caching mechanism
