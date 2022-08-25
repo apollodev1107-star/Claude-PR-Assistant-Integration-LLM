@@ -306,3 +306,6 @@
 
 ## 2022-08-24
 - Add CI/CD configuration
+
+## 2022-08-25
+- Add caching mechanism
