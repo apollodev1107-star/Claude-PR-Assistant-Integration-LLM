@@ -309,3 +309,6 @@
 
 ## 2022-08-25
 - Add caching mechanism
+
+## 2022-08-31
+- Update dependencies to latest versions
