@@ -315,3 +315,6 @@
 
 ## 2022-09-19
 - Add example code
+
+## 2022-09-19
+- Add caching mechanism
