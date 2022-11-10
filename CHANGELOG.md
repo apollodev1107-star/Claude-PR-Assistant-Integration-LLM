@@ -327,3 +327,6 @@
 
 ## 2022-11-04
 - Add integration tests
+
+## 2022-11-10
+- Fix typo in README
