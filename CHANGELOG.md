@@ -330,3 +330,6 @@
 
 ## 2022-11-10
 - Fix typo in README
+
+## 2022-11-20
+- Fix linting issues
