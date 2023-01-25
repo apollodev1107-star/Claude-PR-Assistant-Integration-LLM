@@ -333,3 +333,6 @@
 
 ## 2022-11-20
 - Fix linting issues
+
+## 2023-01-25
+- Update requirements.txt
