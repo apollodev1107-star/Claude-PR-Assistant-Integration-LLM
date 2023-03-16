@@ -336,3 +336,6 @@
 
 ## 2023-01-25
 - Update requirements.txt
+
+## 2023-03-16
+- Update project structure
