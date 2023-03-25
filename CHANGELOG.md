@@ -339,3 +339,6 @@
 
 ## 2023-03-16
 - Update project structure
+
+## 2023-03-25
+- Fix linting issues
