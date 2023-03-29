@@ -342,3 +342,6 @@
 
 ## 2023-03-25
 - Fix linting issues
+
+## 2023-03-29
+- Add new feature
