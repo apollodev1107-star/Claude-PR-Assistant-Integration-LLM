@@ -345,3 +345,6 @@
 
 ## 2023-03-29
 - Add new feature
+
+## 2023-04-03
+- Refactor code structure
