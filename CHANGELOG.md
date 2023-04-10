@@ -348,3 +348,6 @@
 
 ## 2023-04-03
 - Refactor code structure
+
+## 2023-04-10
+- Improve error handling
