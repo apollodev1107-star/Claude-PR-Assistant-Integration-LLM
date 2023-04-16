@@ -351,3 +351,6 @@
 
 ## 2023-04-10
 - Improve error handling
+
+## 2023-04-16
+- Fix compatibility issues
