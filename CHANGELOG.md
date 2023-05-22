@@ -357,3 +357,6 @@
 
 ## 2023-04-16
 - Add unit tests
+
+## 2023-05-22
+- Update requirements.txt
