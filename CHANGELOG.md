@@ -372,3 +372,6 @@
 
 ## 2023-07-28
 - Update dependencies
+
+## 2023-08-08
+- Refactor code structure
