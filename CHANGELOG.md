@@ -375,3 +375,6 @@
 
 ## 2023-08-08
 - Refactor code structure
+
+## 2023-08-19
+- Improve code comments
