@@ -378,3 +378,6 @@
 
 ## 2023-08-19
 - Improve code comments
+
+## 2023-08-27
+- Update README with new features
