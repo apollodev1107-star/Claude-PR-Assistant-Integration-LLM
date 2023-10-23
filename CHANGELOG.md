@@ -381,3 +381,6 @@
 
 ## 2023-08-27
 - Update README with new features
+
+## 2023-10-23
+- Fix bug in core module
