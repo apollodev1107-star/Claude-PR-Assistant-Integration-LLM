@@ -384,3 +384,6 @@
 
 ## 2023-10-23
 - Fix bug in core module
+
+## 2023-10-26
+- Add configuration files
