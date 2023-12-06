@@ -387,3 +387,6 @@
 
 ## 2023-10-26
 - Add configuration files
+
+## 2023-12-06
+- Fix edge case bug
