@@ -390,3 +390,6 @@
 
 ## 2023-12-06
 - Fix edge case bug
+
+## 2023-12-18
+- Optimize database queries
