@@ -396,3 +396,6 @@
 
 ## 2024-01-09
 - Add new feature
+
+## 2024-03-08
+- Add integration tests
