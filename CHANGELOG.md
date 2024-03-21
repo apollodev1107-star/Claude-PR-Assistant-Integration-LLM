@@ -399,3 +399,6 @@
 
 ## 2024-03-08
 - Add integration tests
+
+## 2024-03-21
+- Fix security vulnerability
