@@ -402,3 +402,6 @@
 
 ## 2024-03-21
 - Fix security vulnerability
+
+## 2024-04-08
+- Update documentation
