@@ -405,3 +405,6 @@
 
 ## 2024-04-08
 - Update documentation
+
+## 2024-04-26
+- Update project metadata
