@@ -411,3 +411,6 @@
 
 ## 2024-05-16
 - Improve code quality
+
+## 2024-05-17
+- Fix memory leak
