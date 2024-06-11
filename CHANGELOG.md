@@ -414,3 +414,6 @@
 
 ## 2024-05-17
 - Fix memory leak
+
+## 2024-06-11
+- Add configuration files
