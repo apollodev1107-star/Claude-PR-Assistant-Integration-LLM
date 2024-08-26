@@ -417,3 +417,6 @@
 
 ## 2024-06-11
 - Add configuration files
+
+## 2024-08-26
+- Fix race condition
