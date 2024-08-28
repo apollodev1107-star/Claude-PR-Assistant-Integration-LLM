@@ -420,3 +420,6 @@
 
 ## 2024-08-26
 - Fix race condition
+
+## 2024-08-28
+- Add new functionality
