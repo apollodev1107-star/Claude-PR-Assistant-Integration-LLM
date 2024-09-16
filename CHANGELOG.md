@@ -423,3 +423,6 @@
 
 ## 2024-08-28
 - Add new functionality
+
+## 2024-09-16
+- Update dependencies to latest versions
