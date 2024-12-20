@@ -441,3 +441,6 @@
 
 ## 2024-12-13
 - Improve test coverage
+
+## 2024-12-20
+- Improve error messages
