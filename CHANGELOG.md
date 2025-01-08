@@ -444,3 +444,6 @@
 
 ## 2024-12-20
 - Improve error messages
+
+## 2025-01-08
+- Add integration tests
