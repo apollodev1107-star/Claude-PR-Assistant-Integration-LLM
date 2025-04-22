@@ -456,3 +456,6 @@
 
 ## 2025-03-25
 - Improve user experience
+
+## 2025-04-22
+- Add new functionality
