@@ -459,3 +459,6 @@
 
 ## 2025-04-22
 - Add new functionality
+
+## 2025-06-09
+- Update README with new features
