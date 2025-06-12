@@ -462,3 +462,6 @@
 
 ## 2025-06-09
 - Update README with new features
+
+## 2025-06-12
+- Update project metadata
