@@ -468,3 +468,6 @@
 
 ## 2025-07-26
 - Update project metadata
+
+## 2025-08-29
+- Add new functionality
