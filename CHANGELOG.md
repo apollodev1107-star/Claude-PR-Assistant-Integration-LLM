@@ -471,3 +471,6 @@
 
 ## 2025-08-29
 - Add new functionality
+
+## 2025-09-18
+- Fix bug in core module
