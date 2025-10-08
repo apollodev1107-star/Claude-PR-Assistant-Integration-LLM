@@ -474,3 +474,6 @@
 
 ## 2025-09-18
 - Fix bug in core module
+
+## 2025-10-08
+- Add integration tests
