@@ -477,3 +477,6 @@
 
 ## 2025-10-08
 - Add integration tests
+
+## 2025-10-13
+- Improve user experience
