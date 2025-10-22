@@ -480,3 +480,6 @@
 
 ## 2025-10-13
 - Improve user experience
+
+## 2025-10-22
+- Fix race condition
