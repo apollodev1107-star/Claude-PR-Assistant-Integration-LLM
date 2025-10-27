@@ -483,3 +483,6 @@
 
 ## 2025-10-22
 - Fix race condition
+
+## 2025-10-27
+- Fix bug in core module
