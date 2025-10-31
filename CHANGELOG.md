@@ -486,3 +486,6 @@
 
 ## 2025-10-27
 - Fix bug in core module
+
+## 2025-10-31
+- Update requirements.txt
