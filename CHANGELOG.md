@@ -489,3 +489,6 @@
 
 ## 2025-10-31
 - Update requirements.txt
+
+## 2025-11-12
+- Fix compatibility issues
