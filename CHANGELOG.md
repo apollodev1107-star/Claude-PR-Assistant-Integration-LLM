@@ -492,3 +492,6 @@
 
 ## 2025-11-12
 - Fix compatibility issues
+
+## 2025-11-18
+- Fix race condition
